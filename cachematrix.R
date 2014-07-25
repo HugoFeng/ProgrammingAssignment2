@@ -2,7 +2,7 @@
 ## original "solve" function, which is to calculate
 ## the inversion of an inversible square matrix.
 
-## The first function builds special "vector", which 
+## The first function builds special "matrix", which 
 ## is represented as a list of functions.
 ## (The input matrix is assumed to be inversible.)
 
